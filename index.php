@@ -1,5 +1,7 @@
 <?php session_start();
 
+
+
 require 'classes/class.alterar.php';
 require 'classes/class.botoes.php';
 require 'classes/class.conexao.php';
